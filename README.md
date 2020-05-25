@@ -13,6 +13,9 @@ unknown: this directory contains images to test our face recognition program on.
 
 # Instructions to run:
 To cache the train image data present in directory 'known', first run cache.py
+
 >python cache.py
+
 After the above code run has completed, to train the data and see face recognition happening simultaneously, run facial_rec.py
+
 >python facial_rec.py
